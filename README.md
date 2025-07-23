@@ -10,7 +10,7 @@ An AI-powered chatbot that helps employees get instant answers to HR policy ques
 
 1. **Clone or download the project files**
    ```
-   git clone <your-repo-url>
+   git clone https://github.com/ArjunVijay-K/HR-Chatbot.git
    cd hr-chatbot
    ```
 
